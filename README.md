@@ -4,7 +4,7 @@
 
 I'm an applied AI engineer who builds products end to end, from defining the problem and choosing an approach to shipping and refining the software. I work across the full stack and take ownership of the details that make a product reliable and useful.
 
-I'm based in Jersey City and completing an M.S. in Computer Science at NJIT, with expected graduation in May 2027. [Personal website](https://jitthenkumarr.com) · [LinkedIn](https://www.linkedin.com/in/jitthenkumarr/)
+[Personal website](https://jitthenkumarr.com) · [LinkedIn](https://www.linkedin.com/in/jitthenkumarr/)
 
 ## Selected work
 
@@ -12,17 +12,21 @@ I'm based in Jersey City and completing an M.S. in Computer Science at NJIT, wit
 
 Homeowners considering solar often need a basic answer before they know what to ask an installer. My master's project gives them a first look at how much sun different parts of their roof get, where features like vents or skylights might limit panel placement, and what questions to ask next.
 
+<img src="mysolarroof.png" alt="Illustration of a roof seen from above, shaded by how much sun each face gets, with a vent and a skylight marked, next to a summary and questions to ask an installer. Synthetic example." width="100%">
+
 `Next.js` · `TypeScript` · `OpenAI Responses API` · `LangChain` · `Google Solar API`
 
-<sub>Master's project in progress. Private repository.</sub>
+<sub>Master's project in progress. Private repository. The illustration uses a synthetic roof.</sub>
 
 ### Expense Tracker
 
 There are plenty of expense trackers on the market. I built my own because I wanted a lower-cost way to track spending and budgets, and I wanted to understand the architecture behind those tools from end to end. It gives me one place to see where my money went, compare spending with my budget, and ask questions like “How much did I spend on groceries last month?”
 
+<img src="expense-tracker.png" alt="Illustration of a transaction list next to an assistant answering how much was spent on groceries, compared with the grocery budget. Synthetic data." width="100%">
+
 `React` · `TypeScript` · `FastAPI` · `PostgreSQL` · `LangGraph` · `Plaid`
 
-<sub>Private repository.</sub>
+<sub>Private repository. The illustration uses synthetic data.</sub>
 
 ### [Solar Soiling Decision Support](https://github.com/jkumarr10/veris-hackathon)
 
@@ -39,8 +43,6 @@ This Veris hackathon prototype helps solar operators decide when a cleaning visi
 <sub>The illustration shows two weather scenarios from the local replay prototype.</sub>
 
 ## Currently building
-
-### Uno ReVoice
 
 I'm working on a prototype to help people spot and track scam calls, including suspected deepfake voice impersonation. It flags warning signs during a call and gives the user a summary to review afterward.
 
